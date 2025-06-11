@@ -1,12 +1,12 @@
 ```yaml
-name: Nova
-location: Australia
-job: unemployed
+name: Nova.
+location: Australia,
+job: unemployed,
 education:
   [
-    "Self taught python programmer",
-    "Self taught luau programemr",
-    "Slef taught html programmer",
-  ]
+    "Self taught programmer",
+    "Self taught pixel artist(ish)",
+    "Self taugh bot dev"
+  ],
 hobbies: gaming
 ```
